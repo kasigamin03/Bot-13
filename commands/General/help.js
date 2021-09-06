@@ -60,7 +60,7 @@ module.exports = {
             <:help_back:818523288686035015>:  **Back to main menu**
             ${client.emoji.misc.xmark}: **Stop menu**
             
-            [Invite Me](https://discord.com/oauth2/authorize?client_id=800549820485599272&scope=bot&permissions=2080768255) ● [Support](${client.config.support})`
+            [Invite Me](https://discord.com/oauth2/authorize?client_id=851337060413341706&scope=bot&permissions=2080768255)`
 
             let embed = new Discord.MessageEmbed()
                 .setTitle("Reaction Help Menu")
@@ -175,7 +175,7 @@ module.exports = {
                 .setDescription(msg)
                 .setColor(client.colors.sky)
                 .setFooter(message.client.user.username, message.client.user.displayAvatarURL())
-                .addField('\u200b', '[Invite Me](https://discord.com/oauth2/authorize?client_id=800549820485599272&scope=bot&permissions=2080768255) ● [Support](' + client.config.support + ')')
+                .addField('\u200b', '[Invite Me](https://discord.com/oauth2/authorize?client_id=851337060413341706&scope=bot&permissions=2080768255)')
             return message.channel.send(helpEmbed)
         }
     }
