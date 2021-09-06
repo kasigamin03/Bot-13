@@ -4,49 +4,49 @@ module.exports = {
      */
     "misc": {
         "loading": "<a:loading:784864000956694558>",
-        "xmark": "<:xmark:784863982871511060>",
-        "check": "<:check:784863987610943528>",
+        "xmark": "❎",
+        "check": "✅",
         "coin": "🪙",
-        "profile":"<:profile:814175783438254110>"
+        "profile":"🤑"
     },
     "presence": {
-        "animidle": "<a:idle:801198955072323635>",
-        "animoffline": "<a:offline:784863990639493120>",
+        "animidle": "<a:Idle:884001030478647307>",
+        "animoffline": "<a:Offline:884000947699843104>",
         "animdnd": "<a:dnd:784863998230659092>",
-        "animonline": "<a:online:784864010846601226>",
-        "online": "<:online:801199621099094016>",
-        "offline": "<:offline:801199835784151150>",
+        "animonline": "<a:Online:884000823552663572>",
+        "online": "<a:Online:884000823552663572>",
+        "offline": "<a:Offline:884000947699843104>",
         "dnd": "<:dnd:801199734769057834>",
-        "idle": "<:idle:801199687809499206>"
+        "idle": "<a:Idle:884001030478647307>"
     },
     "server": {
-        "rules": "<:rules:801200490742415390>",
-        "cooldown": "<:cooldown:783845379120693249>",
-        "authorized": "<:authorized:783782069746008095>",
-        "role": "<:role:814174246179438623>",
-        "text": "<:text_channel:801577339607187496>",
-        "vc": "<:voice_channel:801577429860745236>",
-        "join":"<:welcome:814174245856346142>"
+        "rules": "<a:Online:884000823552663572>",
+        "cooldown": "<a:Online:884000823552663572>",
+        "authorized": "<a:Online:884000823552663572>",
+        "role": "<a:Online:884000823552663572>",
+        "text": "<a:Online:884000823552663572>",
+        "vc": "<a:Online:884000823552663572>",
+        "join":"<a:Online:884000823552663572>"
     },
     "bot": {
-        "warn": "<:warn:789530447373533184>",
-        "command": "<:command:789531672143200317>",
+        "warn": "<a:Offline:884000947699843104>",
+        "command": "<a:Online:884000823552663572>",
         "second": "<:second:789531672538251265>",
-        "vote": "<:vote:789531672588451930>",
+        "vote": "<a:Online:884000823552663572>",
         "first": "<:first:789531672633802762>",
-        "alert": "<:alert:789531672667881513>",
+        "alert": "<a:Online:884000823552663572>",
         "third": "<:third:789531672911544331>",
-        "disabled": "<:disabled:783845378943483915>",
-        "bitcoin": "<:bitcoin:809103620737335296>"
+        "disabled": "<a:Online:884000823552663572>",
+        "bitcoin": "<a:Online:884000823552663572>>"
     },
     "help": { // Property name HAS to match one of the following folders in "Commands"
-        "administrator": "<:administrator:813202655182192681>",
-        "utility": "<:utility:802227236723228672>",
-        "developer": "<:developer:813203304976482307>",
-        "general": "<:flag:804095791705620560>",
-        "economy": "<:money:813809931005198382>",
-        "images":"<:image:810945961345679411>",
-        "fun":"<:fun:813205669930336276>"
+        "administrator": ":eyes:",
+        "utility": "🧞",
+        "developer": "🤖",
+        "general": "🧞",
+        "economy": "💸",
+        "images":"📷",
+        "fun":"🤖"
     },
     "reward": {
         "r2": "<:r2:812828115738427416>",
