@@ -4,7 +4,7 @@ module.exports = {
      */
     "token": "",
     "google_api_key": "",
-    "support": "https://discord.gg/JHJQ4tG2rf",
+    "support": "https://dsc.gg/lscs",
     "owners": [
         "774352602678558790",
         "660552441166823462"
